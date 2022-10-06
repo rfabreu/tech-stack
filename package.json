@@ -1,4 +1,11 @@
 {
+  "name": "tech-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "seeds": "node seeds/index.js"
+  },
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.5",
