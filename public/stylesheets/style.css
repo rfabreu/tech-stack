@@ -90,6 +90,15 @@ form label {
     flex-direction: column;
 }
 
+.wrapper h1 a {
+    color: #F1F6FB;
+    font-size: larger;
+}
+
+.wrapper h1 a:hover {
+    color: #BABBBD;
+}
+
 header {
     border-bottom: 1px solid #ccc;
     display: flex;
